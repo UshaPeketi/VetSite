@@ -1,0 +1,16 @@
+.hero-image {
+  background-image: url("../../../assets/images/logimg.jpg");
+  background-color: #cccccc;
+  height: 697px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.card-body {
+  background-color : transparent; 
+  border-color: black;
+}
+.ml-auto{
+ float: left;
+}

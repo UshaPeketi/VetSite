@@ -1,0 +1,12 @@
+.hero-image {
+    background-image: url("../../../assets/images/status.jpg");
+    background-color: #cccccc;
+    height: 697px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .ml-auto{
+   float: left;
+  }

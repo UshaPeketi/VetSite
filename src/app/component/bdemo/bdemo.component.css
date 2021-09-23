@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .hero-image {
+    background-image: url("../../../assets/images/demoimg.jpg");
+    background-color: #cccccc;
+    height: 697px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .hero-text {
+    
+    color: white;
+  }
+  .hero-button {
+    background-color: #04AA6D;
+    border: white;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+  .ml-auto{
+   float: left;
+  }
+  .p {
+    font-style: italic;
+    color: white;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  

@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .hero-image {
+    background-image: url("../../../assets/images/abt.jpg");
+    background-color: #cccccc;
+  
+    height: 430px;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .hero-text {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    bottom: 50%;
+    color: black;
+  }
+  .hero-button {
+    background-color: #04AA6D;
+    border: white;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+  .ml-auto{
+   float: left;
+  }
+  

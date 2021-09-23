@@ -1,0 +1,15 @@
+.hero-image {
+    background-image: url(../../../assets/images/loginimg.jpg);
+    background-color: #cccccc;
+    height: 697px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .form-group {
+    border-color: black;
+  }
+  .ml-auto{
+   float: left;
+  }
